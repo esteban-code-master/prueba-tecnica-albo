@@ -1,0 +1,21 @@
+{
+	"en": "English",
+	"es": "Spanish",
+	"to": "to",
+	"create-task": "Create new task",
+	"form-add-task-title": "Add a new note for your project",
+	"form-title": "Title",
+	"form-description": "Description",
+	"form-collaborator": "Responsible",
+	"form-date-start": "Start date",
+	"form-date-end": "End date",
+	"form-save": "Save",
+	"title": "Activity List",
+	"subtitle": "Create a record of your activities",
+	"message-success": "Changes have been saved successfully",
+	"message-error": "Your changes were not saved successfully",
+	"message-delete": "Your task was delete",
+	"card-pending": "Not Started",
+	"card-in-progress": "In Progress",
+	"card-complete": "Done"
+}

@@ -1,0 +1,21 @@
+{
+	"en": "Ingles",
+	"es": "Español",
+	"to": "a",
+	"create-task": "Crear nueva tarea",
+	"form-add-task-title": "Agrega una nueva nota para tu proyecto",
+	"form-title": "Titulo",
+	"form-description": "Descripción",
+	"form-collaborator": "Responsable",
+	"form-date-start": "Fecha de inicio",
+	"form-date-end": "Fecha de finalización",
+	"form-save": "Guardar",
+	"title": "Lista de actividades",
+	"subtitle": "Genere el registro de tus actividades",
+	"message-success": "se ha guardado correctamente los cambios",
+	"message-error": "no se guardo correctamente tus cambios",
+	"message-delete": "tu tarea fue eliminada correctamente",
+	"card-pending": "No Comenzado",
+	"card-in-progress": "En Progreso",
+	"card-complete": "Hecho"
+}

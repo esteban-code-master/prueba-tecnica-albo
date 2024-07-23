@@ -1,0 +1,18 @@
+{
+	"peacock.color": "#61dafb",
+	"editor.formatOnSave": true, // Formatear al guardar
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	},
+	"prettier.eslintIntegration": true,
+	"cSpell.words": [
+		"dayjs",
+		"inversify",
+		"mexico",
+		"quicklyservice",
+		"reduxjs",
+		"tailwindcss",
+		"webp"
+	],
+	"files.exclude": {} // Integra Prettier con ESLint
+}
